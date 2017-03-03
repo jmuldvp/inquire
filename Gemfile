@@ -67,3 +67,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap'
 gem 'figaro'
+
+gem 'devise'
+# for oauth authentication for twitter
+# gem 'omniauth-twitter'
